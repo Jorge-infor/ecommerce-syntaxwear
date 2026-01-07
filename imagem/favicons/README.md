@@ -1,0 +1,1 @@
+Coloque os favicons gerados aqui (ico, png, manifest, etc).
